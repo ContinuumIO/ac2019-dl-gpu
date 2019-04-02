@@ -1,4 +1,4 @@
-# ac2018-dl-gpu
+# ac2019-dl-gpu
 Notebooks from AnacondaCON 2019 Deep Learning with GPUs tutorial
 
 To view the figures in these notebooks online, use these nbviewer links:
